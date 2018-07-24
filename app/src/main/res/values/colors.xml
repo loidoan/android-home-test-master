@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#3F51B5</color>
+  <color name="colorPrimaryDark">#303F9F</color>
+  <color name="colorAccent">#FF4081</color>
+
+  <!-- Commons -->
+  <color name="transparent">#00000000</color>
+  <color name="white">#ffffff</color>
+  <color name="black">#000000</color>
+  <color name="trans_black">#cc000000</color>
+  <color name="blue">#3498db</color>
+  <color name="dark_blue">#0d6aa8</color>
+  <color name="yellow">#f8db55</color>
+  <color name="gray">#ababab</color>
+  <color name="green">#2ecc48</color>
+  <color name="dark_green">#24a039</color>
+  <color name="orange">#f97220</color>
+  <color name="dark_orange">#c45a19</color>
+
+  <!-- App colors -->
+  <color name="background">#1a254a</color>
+  <color name="text_gray">#898a8c</color>
+  <color name="divider">#737373</color>
+  <color name="user_avatar_bg">#aaaaaa</color>
+  <color name="fb_button_bg">#204d7f</color>
+  <color name="gplus_button_bg">#ec3a2a</color>
+  <color name="home_fab_bg">#3498db</color>
+  <color name="home_fab_stroke">#0d6aa8</color>
+  <color name="home_fab_active_bg">#1e74ad</color>
+  <color name="dialog_title_bg">#e3dfe0</color>
+  <color name="text_box_bg">#eeeeee</color>
+  <color name="item_builder_bg">#0e1429</color>
+  <color name="builder_certificate_bg">#cc1c274d</color>
+  <color name="rate_builder_dialog_bg">#0b0f1d</color>
+  <color name="button_color">#3598DB</color>
+  <color name="promotion_bg">#803498db</color>
+  <color name="Red">#FF0000</color>
+</resources>
